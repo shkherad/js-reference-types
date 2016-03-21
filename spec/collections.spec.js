@@ -53,7 +53,6 @@ describe('collections', () => {
   });
 
   describe('word frequencies', () => {
-
     const wordFreqsGreaterThan1 = {
       THE: 9,
       OF: 5,
